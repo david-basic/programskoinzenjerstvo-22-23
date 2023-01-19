@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35a78b10-6089-49bf-9bc3-dff85bca5c57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/LogicTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +60,7 @@
       <recent name="Models" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.LogicTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="programskoinzenjerstvo-22-23" />
@@ -66,9 +68,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LogicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programskoinzenjerstvo-22-23" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest.testAddVehicleToTrain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programskoinzenjerstvo-22-23" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogicTest" />
+      <option name="METHOD_NAME" value="testAddVehicleToTrain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest.testGetEmployeePayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programskoinzenjerstvo-22-23" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogicTest" />
+      <option name="METHOD_NAME" value="testGetEmployeePayment" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest.testGetVehicleChargeByType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programskoinzenjerstvo-22-23" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogicTest" />
+      <option name="METHOD_NAME" value="testGetVehicleChargeByType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LogicTest" />
+        <item itemvalue="JUnit.LogicTest.testAddVehicleToTrain" />
+        <item itemvalue="JUnit.LogicTest.testGetEmployeePayment" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.LogicTest.testGetVehicleChargeByType" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674128076188</updated>
       <workItem from="1674128078085" duration="1005000" />
-      <workItem from="1674135119425" duration="1453000" />
+      <workItem from="1674135119425" duration="1575000" />
+      <workItem from="1674142151118" duration="2561000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1674128221178</created>
@@ -104,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674135389493</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added Tests class">
+      <created>1674142045094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674142045094</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +167,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="SOLID and DP done" />
     <MESSAGE value="slight change" />
-    <option name="LAST_COMMIT_MESSAGE" value="slight change" />
+    <MESSAGE value="added Tests class" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Tests class" />
   </component>
 </project>
